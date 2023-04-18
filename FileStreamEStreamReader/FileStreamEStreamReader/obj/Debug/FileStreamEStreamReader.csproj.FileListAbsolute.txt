@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\FileStreamEStreamReader.exe.config
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\FileStreamEStreamReader.exe
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\bin\Debug\FileStreamEStreamReader.pdb
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\FileStreamEStreamReader.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\FileStreamEStreamReader.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\FileStreamEStreamReader.exe
+C:\Users\Lucas Rodrigues\temp\AULA Files\FileStreamEStreamReader\FileStreamEStreamReader\obj\Debug\FileStreamEStreamReader.pdb
