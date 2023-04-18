@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\bin\Debug\AulaFileFileInfoEIOException.exe.config
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\bin\Debug\AulaFileFileInfoEIOException.exe
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\bin\Debug\AulaFileFileInfoEIOException.pdb
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\obj\Debug\AulaFileFileInfoEIOException.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\obj\Debug\AulaFileFileInfoEIOException.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\obj\Debug\AulaFileFileInfoEIOException.exe
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaFileFileInfoEIOException\AulaFileFileInfoEIOException\obj\Debug\AulaFileFileInfoEIOException.pdb
