@@ -1,0 +1,7 @@
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\bin\Debug\AulaUsingBlock.exe.config
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\bin\Debug\AulaUsingBlock.exe
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\bin\Debug\AulaUsingBlock.pdb
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\obj\Debug\AulaUsingBlock.csproj.AssemblyReference.cache
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\obj\Debug\AulaUsingBlock.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\obj\Debug\AulaUsingBlock.exe
+C:\Users\Lucas Rodrigues\temp\AULA Files\AulaUsingBlock\AulaUsingBlock\obj\Debug\AulaUsingBlock.pdb
